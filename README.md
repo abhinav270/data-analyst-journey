@@ -6,8 +6,8 @@ This repository is a curated collection of Jupyter notebooks designed to provide
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/abhinav270/data-analyst-journey.git
+    cd data-analyst-journey
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -26,7 +26,7 @@ This repository is a curated collection of Jupyter notebooks designed to provide
 3.  **Install the required packages:**
     *   The primary `requirements.txt` is located in the Python learning directory.
     ```bash
-    pip install -r 01_python-learning/requirements.txt
+    pip install -r requirements.txt
     ```
     *   Note: Some notebooks, especially in the advanced sections, may have their own specific dependencies. Instructions are provided within those notebooks.
 
@@ -252,8 +252,3 @@ Learn to query and manage databases from basic SQL to advanced ORM techniques.
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-"# data-analyst-journey" 
